@@ -43,3 +43,10 @@ Then navigate to this package (or any package that contains it) and run `go gene
 * `output`: (Required) A comma separated list of Salesforce objects to generate
 * `prefix`: (Optional) A prefix to use for each generated file
 * `suffix`: (Optional; Default: `_sfdc`) A suffix to use for each generated file
+
+### tble test
+
+Name    | Age
+--------|------
+Bob     | 27
+Alice   | 23
